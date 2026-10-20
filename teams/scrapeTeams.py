@@ -8,10 +8,6 @@ from termcolor import colored
 from config.config import TIMEOUT, SCRAPE_TEAMS_LINKS_DIR_INPUT, SCRAPE_TEAMS_LINKS_DIR_OUTPUT, CONCURRENCY_WORKERS
 from asyncio import Semaphore
 
-
-
-
-
 async def main(browser: Browser, url: str):
     try:
 
@@ -29,10 +25,7 @@ async def main(browser: Browser, url: str):
         if not anchorList:
             raise NoTeamsFoundException(f"No se encontraron equipos de futbol para esta liga: {url}")
         
-
         data = []
-
-        
         for element in anchorList:
             data.append({
                 "id": uuid.uuid4().hex,
@@ -74,7 +67,8 @@ async def run():
 
             all_teams = []
             for result_list in all_results_lists:
-                all_teams.extend(result_list)
+                if result_list:
+                    all_teams.extend(result_list)
 
             final_json_object = {
                 "teams": all_teams
