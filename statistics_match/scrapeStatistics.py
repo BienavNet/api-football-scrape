@@ -1,8 +1,7 @@
-import sys, asyncio, json, uuid, random
+import sys, asyncio, json, uuid
 sys.path.append('\\Users\\User\\Desktop\\api futbol scrapping')
 
 from playwright.async_api import async_playwright, Browser
-from exceptions.main import NoTeamsFoundException
 from bs4 import BeautifulSoup
 from termcolor import colored
 from config.config import TIMEOUT, SCRAPE_STATISTICS_LINKS_DIR_INPUT, SCRAPE_STATISTICS_LINKS_DIR_OUTPUT, CONCURRENCY_WORKERS, HEADLESS, MAX_RETRIES
