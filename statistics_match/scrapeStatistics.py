@@ -14,10 +14,10 @@ async def main(browser: Browser, url: str):
     try:
         retries = 0
         # home_name = away_name = match_date = score = refereeName = competition = total_shots = shots_on_target = corners = cards = fouls = None
-        context = await browser.new_context(no_viewport=False)
         while(retries < MAX_RETRIES):
             try:
                 
+                context = await browser.new_context(no_viewport=False)
                 page = await context.new_page()
                 page.set_default_timeout(TIMEOUT)
                 await page.goto(url, wait_until="load")
