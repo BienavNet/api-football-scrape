@@ -1,0 +1,13 @@
+TIMEOUT = 60000
+SCRAPE_TEAMS_LINKS_DIR_INPUT = 'config/inputTeams.txt'
+SCRAPE_TEAMS_LINKS_DIR_OUTPUT = 'teams/data.json'
+SCRAPE_MATCHS_LINKS_DIR_INPUT = 'teams/data.json'
+SCRAPE_MATCHS_LINKS_DIR_OUTPUT = 'matchs/data.json'
+SCRAPE_STATISTICS_LINKS_DIR_INPUT = 'statistics_match/fragments/fragmento_'
+SCRAPE_STATISTICS_LINKS_DIR_OUTPUT = 'statistics_match/results/fragmento_'
+CONCURRENCY_WORKERS = 50
+HEADLESS = True
+PROXY_SERVER = "http://gw.dataimpulse.com"
+PROXY_USERNAME = "f9fd49dc226641e9d716__cr.us"
+PROXY_PASSWORD = "bf51b60bf552866c"
+MAX_RETRIES = 1

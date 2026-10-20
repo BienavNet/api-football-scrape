@@ -1,0 +1,50 @@
+{
+    "matchs": [
+        {
+            "id": "id",
+            "home": "team_id",
+            "away": "team_id",
+            "match_date": "",
+            "score": {
+                "home": 0,
+                "away": 0
+            },
+            "data": {
+                "competition": "champions league",
+                "total_shots": {
+                    "home": 0,
+                    "away": 0,
+                    "total": 0
+                },
+                "shots_on_target": {
+                    "home": 0,
+                    "away": 0,
+                    "total": 0
+                },
+                "corners": {
+                    "home": 0,
+                    "away": 0, 
+                    "total": 0
+                },
+                "cards": {
+                    "yellow": {
+                        "home": 0,
+                        "away": 0, 
+                        "total": 0
+                    },
+                    "red": {
+                        "home": 0,
+                        "away": 0,
+                        "total": 0
+                    },
+                    "total": 0
+                },
+                "fouls": {
+                    "home": 0,
+                    "away": 0,
+                    "total": 0
+                }
+            }
+        }
+    ]
+}

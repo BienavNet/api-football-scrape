@@ -1,0 +1,580 @@
+{
+    "teams": [
+        {
+            "id": "2cda544613ed4a82b59bab8521fd54ba",
+            "name": "Arsenal",
+            "link": "https://www.flashscoreusa.com/team/arsenal/hA1Zm19f/",
+            "league": "Premier League"
+        },
+        {
+            "id": "a9207d8172964aa1a7a5fd3758b4c261",
+            "name": "Manchester City",
+            "link": "https://www.flashscoreusa.com/team/manchester-city/Wtn9Stg0/",
+            "league": "Premier League"
+        },
+        {
+            "id": "46bffc4b830b4b5c8680819095933d75",
+            "name": "Aston Villa",
+            "link": "https://www.flashscoreusa.com/team/aston-villa/W00wmLO0/",
+            "league": "Premier League"
+        },
+        {
+            "id": "8176e72d596c4e7386a23ef9b307543c",
+            "name": "Liverpool",
+            "link": "https://www.flashscoreusa.com/team/liverpool/lId4TMwf/",
+            "league": "Premier League"
+        },
+        {
+            "id": "833ce22955b640218ec0ea40b3d205dd",
+            "name": "Chelsea",
+            "link": "https://www.flashscoreusa.com/team/chelsea/4fGZN2oK/",
+            "league": "Premier League"
+        },
+        {
+            "id": "47ee1be6076c4da9abdf546b31371187",
+            "name": "Manchester Utd",
+            "link": "https://www.flashscoreusa.com/team/manchester-united/ppjDR086/",
+            "league": "Premier League"
+        },
+        {
+            "id": "f3f885e4dacc4395acfa3d57b3f149f3",
+            "name": "Brentford",
+            "link": "https://www.flashscoreusa.com/team/brentford/xYe7DwID/",
+            "league": "Premier League"
+        },
+        {
+            "id": "741743c846e44a0394dacc806ffd3abe",
+            "name": "Sunderland",
+            "link": "https://www.flashscoreusa.com/team/sunderland/WSzc94ws/",
+            "league": "Premier League"
+        },
+        {
+            "id": "56c6546fa4134f2c93f48f8003826fb3",
+            "name": "Newcastle",
+            "link": "https://www.flashscoreusa.com/team/newcastle-utd/p6ahwuwJ/",
+            "league": "Premier League"
+        },
+        {
+            "id": "8b141ace6cc44b5f9596e51a8936f6cf",
+            "name": "Brighton",
+            "link": "https://www.flashscoreusa.com/team/brighton/2XrRecc3/",
+            "league": "Premier League"
+        },
+        {
+            "id": "82a7dfeb98e94e8b8e3c46bde106fd00",
+            "name": "Fulham",
+            "link": "https://www.flashscoreusa.com/team/fulham/69ZiU2Om/",
+            "league": "Premier League"
+        },
+        {
+            "id": "f33f611bed8245d9b5f2a57858c34669",
+            "name": "Everton",
+            "link": "https://www.flashscoreusa.com/team/everton/KluSTr9s/",
+            "league": "Premier League"
+        },
+        {
+            "id": "371443a82c4a4dbab2baa0d4213d18a6",
+            "name": "Tottenham",
+            "link": "https://www.flashscoreusa.com/team/tottenham/UDg08Ohm/",
+            "league": "Premier League"
+        },
+        {
+            "id": "301cbdfd554342f89c476de308c4afdc",
+            "name": "Crystal Palace",
+            "link": "https://www.flashscoreusa.com/team/crystal-palace/AovF1Mia/",
+            "league": "Premier League"
+        },
+        {
+            "id": "5c4b2cc19cba4db18ff30a9da2045a30",
+            "name": "Bournemouth",
+            "link": "https://www.flashscoreusa.com/team/bournemouth/OtpNdwrc/",
+            "league": "Premier League"
+        },
+        {
+            "id": "4ea4b715c3f64c98b02e6faf7e5ad010",
+            "name": "Leeds",
+            "link": "https://www.flashscoreusa.com/team/leeds/tUxUbLR2/",
+            "league": "Premier League"
+        },
+        {
+            "id": "460298157f98495c82acd8efb534b134",
+            "name": "Nottingham",
+            "link": "https://www.flashscoreusa.com/team/nottingham/UsushcZr/",
+            "league": "Premier League"
+        },
+        {
+            "id": "4d7fcafebc3642ed818d5b23d998b918",
+            "name": "West Ham",
+            "link": "https://www.flashscoreusa.com/team/west-ham/Cxq57r8g/",
+            "league": "Premier League"
+        },
+        {
+            "id": "87888705e6d9445bbb1188098bf3a79e",
+            "name": "Burnley",
+            "link": "https://www.flashscoreusa.com/team/burnley/z3dmTMMO/",
+            "league": "Premier League"
+        },
+        {
+            "id": "3658e41790ef42f38f74d0b2100b9825",
+            "name": "Wolves",
+            "link": "https://www.flashscoreusa.com/team/wolves/j3Azpf5d/",
+            "league": "Premier League"
+        },
+        {
+            "id": "036a3c6da5454af988286890f6517bcc",
+            "name": "Lens",
+            "link": "https://www.flashscoreusa.com/team/lens/IBmris38/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "6d8059d3674e4932aeb79c8d4f8ce66c",
+            "name": "PSG",
+            "link": "https://www.flashscoreusa.com/team/psg/CjhkPw0k/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "d3e36de4deb6457e8b32ed2c5dabec40",
+            "name": "Marseille",
+            "link": "https://www.flashscoreusa.com/team/marseille/SblU3Hee/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "b566b169162d4385b7a0c37169a1e53d",
+            "name": "Lille",
+            "link": "https://www.flashscoreusa.com/team/lille/pfDZL71o/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "215e22830de143a4aa2cb540aee95a2a",
+            "name": "Lyon",
+            "link": "https://www.flashscoreusa.com/team/lyon/2akflumR/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "ae7a8dd5df7940df8dd8df534092823c",
+            "name": "Rennes",
+            "link": "https://www.flashscoreusa.com/team/rennes/d2nnj1IE/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "6014a2e83af44a43916e9596b48b3ee8",
+            "name": "Strasbourg",
+            "link": "https://www.flashscoreusa.com/team/strasbourg/nP6UzIU1/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "9523bcb372264222aecec5c7dda2ba65",
+            "name": "Toulouse",
+            "link": "https://www.flashscoreusa.com/team/toulouse/MLmY2yB1/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "0521704a6bed4367b5318162fc28d11c",
+            "name": "Monaco",
+            "link": "https://www.flashscoreusa.com/team/monaco/2PIvr8o4/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "87d4215cdb5d49b887e61790a4bccbb4",
+            "name": "Angers",
+            "link": "https://www.flashscoreusa.com/team/angers/SAlF91iL/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "f5f23dd257f547a999bee80231c20450",
+            "name": "Brest",
+            "link": "https://www.flashscoreusa.com/team/brest/Cr4VGaUl/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "079620635b8f4d9aaff1f668527cd7a9",
+            "name": "Lorient",
+            "link": "https://www.flashscoreusa.com/team/lorient/jgNAYRGi/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "27d5258d6e9a4f4db8360432dcb6770e",
+            "name": "Le Havre",
+            "link": "https://www.flashscoreusa.com/team/le-havre/CIEe04GT/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "85e150fff5ae4a76932cd7a20a6938df",
+            "name": "Nice",
+            "link": "https://www.flashscoreusa.com/team/nice/YagoQJpq/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "4834db9daa20477f9087f7de1067f5e4",
+            "name": "Paris FC",
+            "link": "https://www.flashscoreusa.com/team/paris-fc/0OEHEprs/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "8fd06b905ee74404b22d98c16f6ae392",
+            "name": "Nantes",
+            "link": "https://www.flashscoreusa.com/team/nantes/veuetnGG/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "fc6064c031c04cb3bb77341e920210ab",
+            "name": "Auxerre",
+            "link": "https://www.flashscoreusa.com/team/auxerre/MTLr36WA/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "3a11ab2b7b5e4a56a09e824825d8d97d",
+            "name": "Metz",
+            "link": "https://www.flashscoreusa.com/team/metz/4v0yqlWc/",
+            "league": "Ligue 1"
+        },
+        {
+            "id": "38cc711ebf784ea2b37ae0df2b3bfb9e",
+            "name": "Bayern Munich",
+            "link": "https://www.flashscoreusa.com/team/bayern-munich/nVp0wiqd/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "bbf11675075047f79dce196dc51c1e33",
+            "name": "Dortmund",
+            "link": "https://www.flashscoreusa.com/team/dortmund/nP1i5US1/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "1aebe41480994689beb01ebac73a50b6",
+            "name": "Bayer Leverkusen",
+            "link": "https://www.flashscoreusa.com/team/bayer-leverkusen/4jcj2zMd/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "37da84c02cc84b24ba43506da7b7f0d0",
+            "name": "RB Leipzig",
+            "link": "https://www.flashscoreusa.com/team/rb-leipzig/KbS1suSm/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "5666bf17cbe54faf98e812f8857af6a8",
+            "name": "Hoffenheim",
+            "link": "https://www.flashscoreusa.com/team/hoffenheim/hQAtP9Sl/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "a768e0b83bb145d0b950f4d414b20149",
+            "name": "Stuttgart",
+            "link": "https://www.flashscoreusa.com/team/vfb-stuttgart/nJQmYp1B/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "2b4e360a381245e29b7f559676f925bf",
+            "name": "Eintracht Frankfurt",
+            "link": "https://www.flashscoreusa.com/team/eintracht-frankfurt/8vndvXTk/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "7fe59a893514478db8cb8b69b7383fe3",
+            "name": "Union Berlin",
+            "link": "https://www.flashscoreusa.com/team/union-berlin/pzHW4oaE/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "fdeef70ae6094f898e254b84a2cf0ff2",
+            "name": "Freiburg",
+            "link": "https://www.flashscoreusa.com/team/freiburg/fiEQZ7C7/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "ecfb1a28fbba41f281dcb864e04fb74f",
+            "name": "Werder Bremen",
+            "link": "https://www.flashscoreusa.com/team/werder-bremen/Ig1f1fy3/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "cc8bdec53f3c4097a991eb118bb26f99",
+            "name": "FC Koln",
+            "link": "https://www.flashscoreusa.com/team/1-fc-koln/WG9pOTse/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "3b67a1941fce4fb29b2c8253e4493092",
+            "name": "B. Monchengladbach",
+            "link": "https://www.flashscoreusa.com/team/b-monchengladbach/88HSzjDr/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "d832d16b45564c8980268978eb231d65",
+            "name": "Hamburger SV",
+            "link": "https://www.flashscoreusa.com/team/hamburger/v9k3aY5F/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "0ce39d708c7c459eb3a699d71d5e98f1",
+            "name": "Wolfsburg",
+            "link": "https://www.flashscoreusa.com/team/wolfsburg/nwkTahLL/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "08eda5f2f9834b90b1b6756c1bcdb8bc",
+            "name": "Augsburg",
+            "link": "https://www.flashscoreusa.com/team/augsburg/fTVNku3I/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "400ee7a1d6bc4e71b07d450c17949e87",
+            "name": "St. Pauli",
+            "link": "https://www.flashscoreusa.com/team/st-pauli/ILyJuN3g/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "4312eed48bee458298368c001440407d",
+            "name": "Heidenheim",
+            "link": "https://www.flashscoreusa.com/team/heidenheim/KWixEVWi/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "8e6039d888a64764b58872150fb725f1",
+            "name": "Mainz",
+            "link": "https://www.flashscoreusa.com/team/mainz/EuakNmc1/",
+            "league": "Bundesliga"
+        },
+        {
+            "id": "cfc75524ff9249e681d7f51db8ca2298",
+            "name": "Inter",
+            "link": "https://www.flashscoreusa.com/team/inter/Iw7eKK25/",
+            "league": "Serie A"
+        },
+        {
+            "id": "0007f634304044b29ea8877a8fdc7aea",
+            "name": "AC Milan",
+            "link": "https://www.flashscoreusa.com/team/ac-milan/8Sa8HInO/",
+            "league": "Serie A"
+        },
+        {
+            "id": "ce0570a9e75b4ddbbb336f864db2aa6d",
+            "name": "Napoli",
+            "link": "https://www.flashscoreusa.com/team/napoli/69Dxbc61/",
+            "league": "Serie A"
+        },
+        {
+            "id": "faa132c625fd4b129c5ec04d99e24a70",
+            "name": "Juventus",
+            "link": "https://www.flashscoreusa.com/team/juventus/C06aJvIB/",
+            "league": "Serie A"
+        },
+        {
+            "id": "ee9498f94de94b40b4c46a9c422cb164",
+            "name": "AS Roma",
+            "link": "https://www.flashscoreusa.com/team/as-roma/zVqqL0ma/",
+            "league": "Serie A"
+        },
+        {
+            "id": "d3009e607f854c6aa67b75d6aee8dcad",
+            "name": "Como",
+            "link": "https://www.flashscoreusa.com/team/como/ttyLthOA/",
+            "league": "Serie A"
+        },
+        {
+            "id": "fb3c121e1b9746c4bba0353018815aa8",
+            "name": "Bologna",
+            "link": "https://www.flashscoreusa.com/team/bologna/0M9xNN8N/",
+            "league": "Serie A"
+        },
+        {
+            "id": "0e946a1f46ac46eabdec228468d18182",
+            "name": "Atalanta",
+            "link": "https://www.flashscoreusa.com/team/atalanta/8C9JjMXu/",
+            "league": "Serie A"
+        },
+        {
+            "id": "72c1017efb8c43e19f99a1ca3a84cf8e",
+            "name": "Lazio",
+            "link": "https://www.flashscoreusa.com/team/lazio/URcSl02h/",
+            "league": "Serie A"
+        },
+        {
+            "id": "16a47a1ba4514020ae6efa4a220f38be",
+            "name": "Sassuolo",
+            "link": "https://www.flashscoreusa.com/team/sassuolo/QDdvI0zl/",
+            "league": "Serie A"
+        },
+        {
+            "id": "7629de55b3854a2e8b3c500e8fd7bd20",
+            "name": "Torino",
+            "link": "https://www.flashscoreusa.com/team/torino/MZFZnvX4/",
+            "league": "Serie A"
+        },
+        {
+            "id": "064fdd31d8c34d9086bcd0add076db3d",
+            "name": "Udinese",
+            "link": "https://www.flashscoreusa.com/team/udinese/rXw8YKDE/",
+            "league": "Serie A"
+        },
+        {
+            "id": "70719468fe854b53a86967895fd42932",
+            "name": "Cremonese",
+            "link": "https://www.flashscoreusa.com/team/cremonese/KUzfp5N3/",
+            "league": "Serie A"
+        },
+        {
+            "id": "2e18e3b5f8524ffc8ac89c90009774b1",
+            "name": "Parma",
+            "link": "https://www.flashscoreusa.com/team/parma/6DxlaxHN/",
+            "league": "Serie A"
+        },
+        {
+            "id": "b104894063e649b3bf81bd6d8beafe3c",
+            "name": "Cagliari",
+            "link": "https://www.flashscoreusa.com/team/cagliari/SCGVmKHb/",
+            "league": "Serie A"
+        },
+        {
+            "id": "98382c72318f4eab87f8af678dc9119a",
+            "name": "Lecce",
+            "link": "https://www.flashscoreusa.com/team/lecce/G8lYsMgU/",
+            "league": "Serie A"
+        },
+        {
+            "id": "2921f6029b554930a2fa2c69a083bdae",
+            "name": "Genoa",
+            "link": "https://www.flashscoreusa.com/team/genoa/d0PJxeie/",
+            "league": "Serie A"
+        },
+        {
+            "id": "aeec3b38c23d4f62940aacf937f16b98",
+            "name": "Verona",
+            "link": "https://www.flashscoreusa.com/team/verona/rJVAIaHo/",
+            "league": "Serie A"
+        },
+        {
+            "id": "6a6369b5c0ad458c8f110eea35572cb9",
+            "name": "Fiorentina",
+            "link": "https://www.flashscoreusa.com/team/fiorentina/Q3A3IbXH/",
+            "league": "Serie A"
+        },
+        {
+            "id": "f09c90a4b1f346189ad91936a5991c53",
+            "name": "Pisa",
+            "link": "https://www.flashscoreusa.com/team/pisa/roasMsOT/",
+            "league": "Serie A"
+        },
+        {
+            "id": "8d2892df60444398bcf4b6d20bc9f553",
+            "name": "Barcelona",
+            "link": "https://www.flashscoreusa.com/team/barcelona/SKbpVP5K/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "05d6e9ca72774586a5b56336f830b849",
+            "name": "Real Madrid",
+            "link": "https://www.flashscoreusa.com/team/real-madrid/W8mj7MDD/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "8b954b42c01d4279b71198dc128292be",
+            "name": "Villarreal",
+            "link": "https://www.flashscoreusa.com/team/villarreal/lUatW5jE/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "e00618813d104773acdfba5ae8368759",
+            "name": "Atl. Madrid",
+            "link": "https://www.flashscoreusa.com/team/atl-madrid/jaarqpLQ/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "0812867d8d134ba590055b75871a2e6d",
+            "name": "Espanyol",
+            "link": "https://www.flashscoreusa.com/team/espanyol/QFfPdh1J/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "90a5a4814e814e04b97cf484b9c525f7",
+            "name": "Betis",
+            "link": "https://www.flashscoreusa.com/team/betis/vJbTeCGP/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "976426402ca84adababa6ea6e59f7284",
+            "name": "Celta Vigo",
+            "link": "https://www.flashscoreusa.com/team/celta-vigo/8pvUZFhf/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "dea4037ae65c4abc9e2e03858aa0f1b9",
+            "name": "Ath Bilbao",
+            "link": "https://www.flashscoreusa.com/team/ath-bilbao/IP5zl0cJ/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "bbf21bbabf304e1083c0a57337e4f8fe",
+            "name": "Elche",
+            "link": "https://www.flashscoreusa.com/team/elche/4jl02tPF/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "217b4af813f54bb3a409931b48bfff4e",
+            "name": "Getafe",
+            "link": "https://www.flashscoreusa.com/team/getafe/dboeiWOt/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "c465bb5e3fa14c3a984c857acba728f2",
+            "name": "Sevilla",
+            "link": "https://www.flashscoreusa.com/team/sevilla/h8oAv4Ts/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "0414dfd77bdf4b17b775a0bc3baf063f",
+            "name": "Osasuna",
+            "link": "https://www.flashscoreusa.com/team/osasuna/ETdxjU8a/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "7af35b9df20647389ce95990632bb82b",
+            "name": "Alaves",
+            "link": "https://www.flashscoreusa.com/team/alaves/hxt57t2q/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "4edfd4390a634cc8ad719226611b76ea",
+            "name": "Rayo Vallecano",
+            "link": "https://www.flashscoreusa.com/team/rayo-vallecano/8bcjFy6O/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "91c825771cff425690f7c4f7e5906a39",
+            "name": "Real Sociedad",
+            "link": "https://www.flashscoreusa.com/team/real-sociedad/jNvak2f3/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "13c1cfc5e89141d98015826ba25b509c",
+            "name": "Mallorca",
+            "link": "https://www.flashscoreusa.com/team/mallorca/4jDQxrbf/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "32e53df790574c91a806ecdf5b5e751f",
+            "name": "Girona",
+            "link": "https://www.flashscoreusa.com/team/girona/nNNpcUSL/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "8ce21d94eccd4d1780a543de9b36d21e",
+            "name": "Valencia",
+            "link": "https://www.flashscoreusa.com/team/valencia/CQeaytrD/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "ddfac3c6f2d64660b61303eaf7cae129",
+            "name": "Levante",
+            "link": "https://www.flashscoreusa.com/team/levante/G8FL0ShI/",
+            "league": "LaLiga"
+        },
+        {
+            "id": "4f2b2fd517174c8f81eca93edca56e74",
+            "name": "Oviedo",
+            "link": "https://www.flashscoreusa.com/team/real-oviedo/SzYzw34K/",
+            "league": "LaLiga"
+        }
+    ]
+}
